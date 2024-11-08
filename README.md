@@ -1,6 +1,6 @@
 # 国内ChatGPT镜像网站、ChatGPT中文版镜像网站整理 （11月最新更新）
 
-我专门整理了一些 国内ChatGPT中文版、ChatGPT镜像网站，帮助在国内就能用上ChatGPT。
+我专门整理了一些 国内ChatGPT中文版、ChatGPT镜像网站，帮助在国内就能用上ChatGPT。 
 
 ## ChatGPT镜像网站
 
